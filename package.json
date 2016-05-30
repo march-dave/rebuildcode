@@ -1,0 +1,23 @@
+{
+  "name": "sampleapp",
+  "version": "1.0.0",
+  "description": "some descirption of the app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/march-dave/rebuildcode.git"
+  },
+  "author": "Dave Lee",
+  "bugs": {
+    "url": "https://github.com/march-dave/rebuildcode/issues"
+  },
+  "homepage": "https://github.com/march-dave/rebuildcode#readme",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1"
+  }
+}
